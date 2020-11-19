@@ -1,0 +1,9 @@
+.item{
+    width: 32%;
+    height: 32%;
+    border: solid 1px;
+    display:inline-block;
+}
+.app_icon{
+    width: 30%;
+}
